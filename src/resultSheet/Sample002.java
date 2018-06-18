@@ -3,22 +3,21 @@ package resultSheet;
 public class Sample002 {
 
 	public Sample002() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
-String Total = "100"; // Total Mark.
+		String mark = "100"; // Total Mark.
 		
 		int A;
 		
-		/* Please input the student make below line-like A= Student mark and you get the 
-		 * result.
-		 */
-		
-		A = 30; 	
-		
+				/* Please input the student's mark below line-like A = Studen's mark and then you get the 
+				 * result.
+				 */
+	
+		A = 78; 	
 		
 		if(A>=75 && A<100)
 			
